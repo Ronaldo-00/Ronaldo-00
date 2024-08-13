@@ -15,5 +15,5 @@ Front end developer Fresher
 
 ![MUTHU RAMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronaldo-00&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![MUTHURAMAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronaldo-00&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
+![MUTHURAMAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronaldo-00&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
